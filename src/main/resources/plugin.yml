@@ -1,0 +1,7 @@
+name: ThanhPlugin
+version: '${project.version}'
+main: org.thanhnguyen.thanhplugin.ThanhPlugin
+api-version: '1.20'
+commands:
+  home:
+    description: comback for you
