@@ -1,2 +1,2 @@
 # PluginMine
-SetHome,Home Plugin for minecraft server. Bukkit Spigot
+SetHome, back Home Plugin for minecraft server 1.20. Bukkit Spigot
